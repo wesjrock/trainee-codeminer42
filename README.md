@@ -19,5 +19,5 @@ A full-stack web development trainee program I participated with challenges focu
 * 4 - HTML/CSS (Landing Page): https://github.com/wesjrock/my-landing-page
 <br>The purpose of this challenge was to make a landing page with HTML/CSS using ITCSS architecture and BEMCSS methodology. 
 
-* 5 - Rails (Controller/View - Contact List): Ongoing task
+* 5 - Rails (Controller/View - Contact List): *Ongoing task
 <br>The purpose of this challenge was to make the Controller and View part of the Rails contact list web application.
