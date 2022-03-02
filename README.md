@@ -6,7 +6,7 @@ A full-stack web development trainee program I participated with challenges focu
 
 ## Challenges
 * 1 - Log Parser: https://github.com/wesjrock/log-parser
-. The purpose of this challenge was to practice Ruby and JSON by implementing a log parser.
+<br>The purpose of this challenge was to practice Ruby and JSON by implementing a log parser.
 
 * 2 - Sinatra: https://github.com/wesjrock/sinatra-app
 . The purpose of this challenge was to make a web application with 3 routes using Ruby and Sinatra.
